@@ -1179,7 +1179,7 @@
 		],
 		"OptionArray": [
 			"Cerebellum",
-			"Optic Ghaism",
+			"Optic chaism",
 			"Medulla",
 			"Pituitary",
 			"Pons",
@@ -1194,7 +1194,7 @@
 			"Left"	
 		],
 		"CorrectOptionArray": [
-			"Optic Ghaism",
+			"Optic chaism",
 			"Pituitary",
 			"Pons",
 			"Medulla",
@@ -1268,7 +1268,7 @@
 			"Mandible",
 			"Dens",
 			"Cisterna magna",
-			"C7 Spinous process",
+			"C7 spinous process",
 			"C2 body"
 		],
 		"DropPosition": [
@@ -1285,7 +1285,7 @@
 			"C2 body",
 			"Intervertebral disc",
 			"Cisterna magna",
-			"C7 Spinous process"
+			"C7 spinous process"
 		],
 		"DropListArray": [
 			"1",
